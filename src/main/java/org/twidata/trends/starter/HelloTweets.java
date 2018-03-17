@@ -15,6 +15,7 @@ public final class HelloTweets {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello Tweets!");
+		/*sucessfully configured and Tweeted */
 		
 
 	}
