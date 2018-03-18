@@ -4,6 +4,22 @@
   <artifactId>trends</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>twidata</name>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Pa0ne</name>
+      <email>pavanr.dev@gmail.com</email>
+    </developer>
+    <developer>
+      <name>Sreedhar Sambangi</name>
+      <email>sreedhar.sambangi@gmail.com</email>
+    </developer>
+  </developers>
   <build> 
   <plugins>
       <plugin>
